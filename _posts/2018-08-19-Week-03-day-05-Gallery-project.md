@@ -5,8 +5,7 @@ date:   2018-08-19 17:55:20 +0800
 categories: JSA
 ---
 
-![](./assert/slider.png)
-
+![](https://alex6liu.github.io/asserts/slider.png)
 
 ### The little triangle is written by 
 ```
@@ -16,3 +15,6 @@ div::before {
 ```
 
 ### The text bubble
+
+
+## CA Memory Game
