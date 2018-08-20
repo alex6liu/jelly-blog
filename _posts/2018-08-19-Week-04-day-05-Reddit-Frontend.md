@@ -7,7 +7,7 @@ categories: JSA
 
 ## raw frontend
 
-![](https://alex6liu.github.io//assert/reddit-front-submit.PNG)
+![](https://alex6liu.github.io/assert/reddit-front-submit.PNG)
 
 ## need a backend api
 - This web service can help you [generate random data](http://mockaroo.com/)
